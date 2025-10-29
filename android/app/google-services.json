@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575650782773",
+    "project_id": "chat-taskmanager-app",
+    "storage_bucket": "chat-taskmanager-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575650782773:android:f7139ac35cb5a86d125b7c",
+        "android_client_info": {
+          "package_name": "com.example.chat_taskmanager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXZQVxVS-ofWNBqTCXO3TBeTMPLsShao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
